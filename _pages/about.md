@@ -31,9 +31,8 @@ redirect_from:
 
 
 ## Academic Achievements
-## Academic Achievements
-- **"Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference"** 
-  (Published in IEEE Transactions on Software Engineering, 2024, CCF A)
+- **Han, L.**, [Co-authors]. (2024). *Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference*. IEEE Transactions on Software Engineering, **CCF A**.
+
 
 
 
