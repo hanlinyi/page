@@ -31,7 +31,7 @@ redirect_from:
 
 
 ## Academic Achievements
-- **Han, L.**, [Co-authors]. (2024). *Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference*. IEEE Transactions on Software Engineering, **CCF A**.
+- **Liny Han**, Shidong Pan, Zhenchang Xing. (2024). *Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference*. IEEE Transactions on Software Engineering, **CCF A**.
 
 
 
