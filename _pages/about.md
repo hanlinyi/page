@@ -1,11 +1,46 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Linyi Han's Academic Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# Linyi Han - Academic Profile
+
+## 个人信息
+- **姓名**: Linyi Han
+- **所属机构**: 天津大学
+- **联系方式**: [hanly2@tju.edu.cn](mailto:hanly2@tju.edu.cn)
+
+## 学术背景
+- **教育经历**: 天津大学博士学位（具体专业、时间等信息）
+- **研究方向**: 软件缺陷分析
+
+## 研究领域与重点
+- **研究领域**: 软件工程、缺陷管理、机器学习
+- **研究目标**: 通过机器学习和大型语言模型（LLM），帮助进行缺陷分析与缺陷信息管理，提高软件开发中的缺陷识别和管理效率。
+
+## 学术成就
+- **论文标题1**: [简要描述论文贡献]
+- **论文标题2**: [简要描述论文贡献]
+  - 例如： *"A Machine Learning Approach to Defect Prediction in Software Engineering"*，通过使用机器学习模型，提出了一种新的软件缺陷预测方法，在多个数据集上实现了显著的提升。
+
+## 教学与指导
+- **课程与教学**: 目前负责教授《软件工程基础》课程，着重培养学生在软件开发过程中识别和解决缺陷的能力。
+- **学生指导**: 指导多名研究生在软件缺陷分析和机器学习应用方向进行研究。
+
+## 合作与网络
+- **学术合作**: 与国内外多所大学和研究机构合作，探索基于LLM的缺陷分析技术的创新应用。
+- **社交媒体**: [GitHub](https://github.com/hanly2) | [ResearchGate](https://www.researchgate.net/profile/Linyi_Han) | [LinkedIn](https://www.linkedin.com/in/linyi-han)
+
+## 个人兴趣与爱好
+除了学术研究，我还对编程、数据分析和技术创新有浓厚的兴趣，业余时间喜欢参加开源项目并贡献代码。
+
+## 未来方向与愿景
+未来我计划继续深化机器学习在软件工程领域的应用，特别是缺陷预测和自动化修复技术，希望通过跨学科合作，推动这一领域的技术创新和实践发展。
+
 
 dasda [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
