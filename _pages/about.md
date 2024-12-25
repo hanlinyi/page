@@ -7,26 +7,38 @@ redirect_from:
   - /about.html
 ---
 
+# Linyi Han - Academic Profile
+
+## Personal Information
+- **Name**: Linyi Han
+- **Institution**: Tianjin University
+- **College**: The College of Intelligence and Computing
+- **Contact**: hanly2 [ at ] tju.edu.cn
+
+## Academic Background
+- **Education**: Ph.D. Candidate at Tianjin University (2021–2025)
+- **Research Focus**: Software Engineering, with an emphasis on vulnerability analysis and management using machine learning and Large Language Models (LLMs).
+
+## Mentors
+- **Primary Supervisor**: Xiaowang Zhang, at Tianjin University (Main advisor for Ph.D. studies)
+- **Co-Supervisors**:
+  - **Zhenchang Xing**, at CSIRO’s Data61 and Australian National University (Collaborative advisor)
+  - **Shidong Pan**, at Columbia University and New York University  (Collaborative advisor)
+
+## Research Areas & Focus
+- **Research Areas**: Software Engineering, Vulnerability Management, Machine Learning
+- **Research Goal**: To improve vulnerability identification and management in software development through machine learning and Large Language Models (LLM), focusing on vulnerability analysis and information management.
 
 
-## 个人信息
-- **姓名**: Linyi Han
-- **所属机构**: Tianjin University
-- **联系方式**: [hanly2 [ at ] tju.edu.cn]
-
-## 学术背景
-- **教育经历**: 天津大学博士学位（具体专业、时间等信息）
-- **研究方向**: 软件缺陷分析
-
-## 研究领域与重点
-- **研究领域**: 软件工程、缺陷管理、机器学习
-- **研究目标**: 通过机器学习和大型语言模型（LLM），帮助进行缺陷分析与缺陷信息管理，提高软件开发中的缺陷识别和管理效率。
-
-## 学术成就
-- **论文标题1**: [简要描述论文贡献]
-- **论文标题2**: [简要描述论文贡献]
-  - 例如： *"A Machine Learning Approach to Defect Prediction in Software Engineering"*，通过使用机器学习模型，提出了一种新的软件缺陷预测方法，在多个数据集上实现了显著的提升。
+## Academic Achievements
+- **"Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference"**
+  - **Published in**: IEEE Transactions on Software Engineering, 2024
+  - **CCF Ranking**: A
+  - **Brief Description**: This paper proposes a novel method for augmenting missing key aspects in textual vulnerability descriptions of long-tail software, using feature inference techniques to improve defect identification.
 
 
+
+## Personal Interests
+In addition to academic research, I have a strong interest in programming, data analysis, and technological innovation. In my spare time, I enjoy participating in open-source projects and contributing code.
 
 
