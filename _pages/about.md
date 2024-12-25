@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Linyi Han - Academic Profile
 
 ## Personal Information
 - **Name**: Linyi Han
