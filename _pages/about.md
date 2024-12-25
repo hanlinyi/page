@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-# Linyi Han - Academic Profile
+
 
 ## 个人信息
 - **姓名**: Linyi Han
 - **所属机构**: 天津大学
-- **联系方式**: [hanly2@tju.edu.cn](mailto:hanly2@tju.edu.cn)
+- **联系方式**: [hanly2[at]tju.edu.cn](mailto:hanly2@tju.edu.cn)
 
 ## 学术背景
 - **教育经历**: 天津大学博士学位（具体专业、时间等信息）
