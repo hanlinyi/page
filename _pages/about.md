@@ -31,8 +31,9 @@ redirect_from:
 
 
 ## Academic Achievements
-- **Liny Han**, Shidong Pan, Zhenchang Xing. (2024). *Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference*. IEEE Transactions on Software Engineering, **CCF A**.
-
+- **Liny Han**, Shidong Pan, Zhenchang Xing, Jiamou Sun, Sofonias Yitagesu, Xiaowang Zhang, Zhiyong Feng (2024). *Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference*. IEEE Transactions on Software Engineering.
+- Jinrui Zhang, **Liny Han**, Xiaowang Zhang (2024). *KFC-QR: A Knowledge Fusion Constraint Method Based on Query Retrieval for CPE prediction*. ISWC (Posters/Demos/Industry).
+- Sofonias Yitagesu, Zhenchang Xing, Xiaowang Zhang, Zhiyong Feng, Xiaohong Li, **Liny Han** (2023). *Extraction of Phrase-based Concepts in Vulnerability Descriptions through Unsupervised Labeling*. ACM Transactions on Software Engineering and Methodology
 
 
 
