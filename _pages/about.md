@@ -20,10 +20,10 @@ redirect_from:
 - **Research Focus**: Software Engineering, with an emphasis on vulnerability analysis and management using machine learning and Large Language Models (LLMs).
 
 ## Mentors
-- **Primary Supervisor**: Xiaowang Zhang, at Tianjin University (Main advisor for Ph.D. studies)
+- **Primary Supervisor**: Xiaowang Zhang, at Tianjin University
 - **Co-Supervisors**:
-  - **Zhenchang Xing**, at CSIRO’s Data61 and Australian National University (Collaborative advisor)
-  - **Shidong Pan**, at Columbia University and New York University  (Collaborative advisor)
+  - **Zhenchang Xing**, at CSIRO’s Data61 and Australian National University
+  - **Shidong Pan**, at Columbia University and New York University
 
 ## Research Areas & Focus
 - **Research Areas**: Software Engineering, Vulnerability Management, Machine Learning
@@ -31,10 +31,10 @@ redirect_from:
 
 
 ## Academic Achievements
-- **"Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference"**
-  - **Published in**: IEEE Transactions on Software Engineering, 2024
-  - **CCF Ranking**: A
-  - **Brief Description**: This paper proposes a novel method for augmenting missing key aspects in textual vulnerability descriptions of long-tail software, using feature inference techniques to improve defect identification.
+## Academic Achievements
+- **"Don't Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference"** 
+  (Published in IEEE Transactions on Software Engineering, 2024, CCF A)
+
 
 
 
