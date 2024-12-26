@@ -18,7 +18,7 @@ redirect_from:
 - **Research Focus**: Software Engineering, with an emphasis on vulnerability analysis and management using machine learning and Large Language Models (LLMs).
 
 ## Mentors
-- **Primary Supervisor**: [Xiaowang Zhang](https://cic.tju.edu.cn/faculty/zhangxiaowang/index.html), at Tianjin University
+- **Primary Supervisor**: [**Xiaowang Zhang**](https://cic.tju.edu.cn/faculty/zhangxiaowang/index.html), at Tianjin University
 - **Co-Supervisors**:
   - [**Zhenchang Xing**](https://people.csiro.au/X/Z/Zhenchang-Xing/), at CSIRO’s Data61 and Australian National University
   - [**Shidong Pan**](https://shidongpan.github.io/), at Columbia University and New York University
