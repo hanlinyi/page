@@ -11,7 +11,7 @@ redirect_from:
 - **Name**: Linyi Han
 - **Institution**: Tianjin University
 - **College**: The College of Intelligence and Computing
-- **Contact**: hanly2 [ at ] tju.edu.cn
+- **Contact**: hanly2 [ at ] tju [Dot] edu [Dot] cn
 
 ## Academic Background
 - **Education**: Ph.D. Candidate at Tianjin University (2021–2025)
