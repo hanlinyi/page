@@ -28,7 +28,7 @@ redirect_from:
 - **Research Goal**: To improve vulnerability identification and management in software development through machine learning and Large Language Models (LLM), focusing on vulnerability analysis and information management.
 
 
-## Academic Achievements
+## Publication
 - **Linyi Han**, Shidong Pan, Zhenchang Xing, Jiamou Sun, Sofonias Yitagesu, Xiaowang Zhang, Zhiyong Feng (2024). *Do Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference*. IEEE Transactions on Software Engineering.
 - Jinrui Zhang, **Linyi Han**, Xiaowang Zhang (2024). *KFC-QR: A Knowledge Fusion Constraint Method Based on Query Retrieval for CPE prediction*. ISWC (Posters/Demos/Industry).
 - Sofonias Yitagesu, Zhenchang Xing, Xiaowang Zhang, Zhiyong Feng, Xiaohong Li, **Linyi Han** (2023). *Extraction of Phrase-based Concepts in Vulnerability Descriptions through Unsupervised Labeling*. ACM Transactions on Software Engineering and Methodology
