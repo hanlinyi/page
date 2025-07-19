@@ -29,7 +29,7 @@ redirect_from:
 
 
 ## Publication
-- **Linyi Han**, Shidong Pan, Zhenchang Xing, Jiamou Sun, Sofonias Yitagesu, Xiaowang Zhang, Zhiyong Feng (2025). *Do Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference*. ACM Transactions on Software Engineering and Methodology.
+- **Linyi Han**, Shidong Pan, Zhenchang Xing, Jiamou Sun, Sofonias Yitagesu, Xiaowang Zhang, Zhiyong Feng (2025). *Do Chase Your Tail! Missing Key Aspects Augmentation in Textual Vulnerability Descriptions of Long-tail Software through Feature Inference*. IEEE Transactions on Software Engineering.
 - Sofonias Yitagesu, Zhenchang Xing, Xiaowang Zhang, Zhiyong Feng, Tingting Bi, **Linyi Han**, Xiaohong Li (2025). *Systematic Literature Review on Software Security Vulnerability Information Extraction*. ACM Transactions on Software Engineering and Methodology
 - Jinrui Zhang, **Linyi Han**, Xiaowang Zhang (2024). *KFC-QR: A Knowledge Fusion Constraint Method Based on Query Retrieval for CPE prediction*. ISWC (Posters/Demos/Industry).
 - Sofonias Yitagesu, Zhenchang Xing, Xiaowang Zhang, Zhiyong Feng, Xiaohong Li, **Linyi Han** (2023). *Extraction of Phrase-based Concepts in Vulnerability Descriptions through Unsupervised Labeling*. ACM Transactions on Software Engineering and Methodology
