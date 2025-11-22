@@ -1,19 +1,19 @@
 ---
 permalink: /
-title: "Linyi Han's Academic Homepage"
+title: "Linyi Han's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## Personal Information
+## Information
 - **Name**: Linyi Han
 - **Institution**: Tianjin University
 - **College**: The College of Intelligence and Computing
 - **Contact**: hanly2 [ at ] tju [Dot] edu [Dot] cn
 
-## Academic Background
+## Background
 - **Education**: Ph.D. Candidate at Tianjin University (2021–2025)
 - **Research Focus**: Software Engineering, with an emphasis on vulnerability analysis and management using machine learning and Large Language Models (LLMs).
 
@@ -22,11 +22,6 @@ redirect_from:
 - **Co-Supervisors**:
   - [**Zhenchang Xing**](https://people.csiro.au/X/Z/Zhenchang-Xing/), at CSIRO’s Data61 and Australian National University
   - [**Shidong Pan**](https://shidongpan.github.io/), at Columbia University and New York University
-
-## Research Areas & Focus
-- **Research Areas**: Software Engineering, Vulnerability Management, Machine Learning
-- **Research Goal**: To improve vulnerability identification and management in software development through machine learning and Large Language Models (LLM), focusing on vulnerability analysis and information management.
-
 
 ## Publication
 - **Linyi Han**, Shidong Pan, Zhenchang Xing, Sofonias Yitagesu, Xiaowang Zhang, Zhiyong Feng, Jiamou Sun, Qing Huang (2025). *Domain-constrained Synthesis of Inconsistent Key Aspects in Textual Vulnerability Descriptions*. Automated Software Engineering.
