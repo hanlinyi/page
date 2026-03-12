@@ -15,14 +15,8 @@ redirect_from:
 - **Position**: Lecturer (at Jiangxi Normal University)
 
 ## Background
-- **Education**: Ph.D. Candidate at Tianjin University (2021–2025)
-- **Research Focus**: Software Engineering, with an emphasis on vulnerability analysis and management using machine learning and Large Language Models (LLMs).
-
-## Mentors
-- **Primary Supervisor**: [**Xiaowang Zhang**](https://cic.tju.edu.cn/faculty/zhangxiaowang/index.html), at Tianjin University
-- **Co-Supervisors**:
-  - [**Zhenchang Xing**](https://people.csiro.au/X/Z/Zhenchang-Xing/), at CSIRO’s Data61 and Australian National University
-  - [**Shidong Pan**](https://shidongpan.github.io/), at Columbia University and New York University
+- **Education**: Ph.D. Candidate at Tianjin University (2021–2025), Mentors: [**Xiaowang Zhang**](https://cic.tju.edu.cn/faculty/zhangxiaowang/index.html), [**Zhenchang Xing**](https://people.csiro.au/X/Z/Zhenchang-Xing/), [**Shidong Pan**](https://shidongpan.github.io/)
+- **Research Focus**: Software Engineering, with an focus on vulnerability detection and inference.
 
 ## Publication
 - **Linyi Han**, Shidong Pan, Zhenchang Xing, Sofonias Yitagesu, Xiaowang Zhang, Zhiyong Feng, Jiamou Sun, Qing Huang (2025). *Domain-constrained Synthesis of Inconsistent Key Aspects in Textual Vulnerability Descriptions*. Automated Software Engineering.
