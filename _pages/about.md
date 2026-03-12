@@ -12,11 +12,12 @@ redirect_from:
 - **Institution**: Jiangxi Normal University
 - **College**: School of Artificial Intelligence
 - **Contact**: linyi.han [ at ] jxnu [Dot] edu [Dot] cn
-- **Position**: Lecturer (at Jiangxi Normal University)
+- **Position**: Lecturer
 
 ## Background
 - **Education**: Ph.D. Candidate at Tianjin University (2021–2025), Mentors: [**Xiaowang Zhang**](https://cic.tju.edu.cn/faculty/zhangxiaowang/index.html), [**Zhenchang Xing**](https://people.csiro.au/X/Z/Zhenchang-Xing/), [**Shidong Pan**](https://shidongpan.github.io/)
-- **Research Focus**: Software Engineering, with an focus on vulnerability detection and inference.
+- **Research Focus**: Software Engineering, with a focus on vulnerability detection and inference.
+- **Personal**: Skilled in table tennis.
 
 ## Publication
 - **Linyi Han**, Shidong Pan, Zhenchang Xing, Sofonias Yitagesu, Xiaowang Zhang, Zhiyong Feng, Jiamou Sun, Qing Huang (2025). *Domain-constrained Synthesis of Inconsistent Key Aspects in Textual Vulnerability Descriptions*. Automated Software Engineering.
