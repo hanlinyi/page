@@ -8,10 +8,11 @@ redirect_from:
 ---
 
 ## Information
-- **Name**: Linyi Han
-- **Institution**: Tianjin University
-- **College**: The College of Intelligence and Computing
-- **Contact**: hanly2 [ at ] tju [Dot] edu [Dot] cn
+- **Name**: Linyi Han (韩林峄)
+- **Institution**: Jiangxi Normal University
+- **College**: School of Artificial Intelligence
+- **Contact**: linyi.han [ at ] jxnu [Dot] edu [Dot] cn
+- **Position**: Lecturer (at Jiangxi Normal University)
 
 ## Background
 - **Education**: Ph.D. Candidate at Tianjin University (2021–2025)
