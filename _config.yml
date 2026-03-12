@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Linyi Han /Academic Homepage"
+title                    : "Linyi Han / Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Linyi Han"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate at Tianjin University, specializing in software vulnerability analysis."
-  location         : "Tianjin University"
+  bio              : "Lecturer at Jiangxi Normal University, with a research focus on software vulnerability detection and inference"
+  location         : "Jiangxi Normal University"
   # email            : "hanly2 [@] tju[dot]edu[dot]cn" 
 
   # Academic websites
